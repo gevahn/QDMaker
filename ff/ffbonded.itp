@@ -1,0 +1,5 @@
+[ atomtypes ]
+; full atom descriptions are available in ffoplsaa.atp
+; name  bond_type    mass        charge   ptype          sigma      epsilon
+ Cd      	     112.411     1.18       A    1.980000e-01  1.4477e-03
+ Se          	     78.971 	-1.18       A    5.240000e-01  1.284e-03
